@@ -1,4 +1,3 @@
 First change
 Second change on new branch
 Third change on new branch
-Fourth change on new branch
